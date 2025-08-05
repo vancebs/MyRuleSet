@@ -1,0 +1,5 @@
+# type: classical
+
+payload:
+  - '172.16.0.0/16' # T2M NB
+  - '172.31.0.0/16' # T2M SH

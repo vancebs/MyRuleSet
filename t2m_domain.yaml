@@ -1,0 +1,5 @@
+# type: classical
+
+payload:
+  - 'gerrit.t2mobile.com'
+  - 'wiki.t2mobile.com'
