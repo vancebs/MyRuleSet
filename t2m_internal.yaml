@@ -1,3 +1,5 @@
 payload:
-  - 'gerrit.t2mobile.com'
-  - 'wiki.t2mobile.com'
+  - DOMAIN,gerrit.t2mobile.com
+  - DOMAIN,wiki.t2mobile.com
+  - IP-CIDR,172.16.0.0/16
+  - IP-CIDR,172.31.0.0/16
