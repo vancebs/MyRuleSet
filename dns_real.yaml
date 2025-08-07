@@ -1,0 +1,6 @@
+# type: classical
+
+payload:
+  - 'ipv6.msftconnecttest.com'
+  - 'ipv6.msftncsi.com'
+  - 'enterprise.activity.windows.com'
